@@ -20,7 +20,7 @@ def keep_alive():
 
 # Cấu hình ID game và Webhook của bạn
 PLACE_ID = "98991765221603" 
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1520653605105963149/vNVpHY208iOqKjn6yGdJ9Pda6lJHJ1zLM_XUvYQ7ivczey2Sxh_NyLujc2hP2-E5AyX0"
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1520677058995290134/lM-gVfvifvr_vaZ2fUVlSmaU68WGrdL6s0XCi3EeSSphVgd5BED3U6DlVeNfHm19-ChX"
 
 # GỌI TRỰC TIẾP API ROBLOX - BỎ TOÀN BỘ PROXY TRUNG GIAN
 ROBLOX_API_URL = f"https://games.roblox.com/v1/games/{PLACE_ID}/servers/Public?limit=100"

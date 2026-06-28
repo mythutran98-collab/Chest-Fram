@@ -112,4 +112,3 @@ if __name__ == "__main__":
         # Đặt 30 giây để giữ kết nối an toàn với máy chủ Roblox gốc
         time.sleep(30)
 EOF
-python bot.py
